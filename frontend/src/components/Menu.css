@@ -1,0 +1,22 @@
+.menuStyle{
+    width: 100%; height: 50px; background: #6ab04c; color: white;
+}
+
+.menuStyle ul{
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.menuStyle ul li{
+    list-style-type: none;
+    text-decoration: none; 
+}
+
+.a{
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+}
